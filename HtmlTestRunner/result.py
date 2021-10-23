@@ -167,7 +167,7 @@ class HtmlTestResult(TextTestResult):
         """ Return the test description if it has one, otherwise return the test name. """
         doc_first_line = test.shortDescription()
         if self.descriptions and doc_first_line:
-            return f"{doc_first_line}: {str(test)}"
+            return doc_first_line
         else:
             return str(test)
 
