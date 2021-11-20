@@ -1,4 +1,4 @@
-A slightly tweaked version of the original to me a specific use-case.
+A slightly tweaked version of the original to meet a specific use-case.
 
 Not recommended for public use, see original repo.
 
