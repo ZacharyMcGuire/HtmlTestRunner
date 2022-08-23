@@ -73,7 +73,7 @@ test_requirements = [
 ]
 
 setup(
-    name='html-testRunner',
+    name='HtmlTestRunner',
     version='1.2.1',
     description="A Test Runner in python, for Human Readable HTML Reports",
     long_description=__doc__,
